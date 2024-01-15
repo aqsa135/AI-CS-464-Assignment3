@@ -1,0 +1,25 @@
+Assignment 3 comments:
+
+1. Probability questions. 25/25
+
+2. Intro to NLTK.  /25
+
+3. Naive Bayes:
+
+log-likelihood: /10
+
+feature selection: /10
+
+performance comparison: 3/10
+I don't see a comparison to NLTK.
+
+4. Named Entity Extraction: 
+
+RegexpParser: 10/10
+
+Named Entity Chunker: 10/10
+
+93/100
+
+
+
